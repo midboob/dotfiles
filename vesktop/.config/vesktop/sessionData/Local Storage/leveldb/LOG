@@ -1,0 +1,11 @@
+2025/01/09-15:54:11.884 4141 Reusing MANIFEST /home/edward/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/01/09-15:54:11.894 4141 Recovering log #16
+2025/01/09-15:54:11.895 4141 Level-0 table #20: started
+2025/01/09-15:54:11.899 4141 Level-0 table #20: 57658 bytes OK
+2025/01/09-15:54:11.901 4141 Delete type=0 #16
+2025/01/09-15:55:12.088 4142 Level-0 table #23: started
+2025/01/09-15:55:12.092 4142 Level-0 table #23: 64128 bytes OK
+2025/01/09-15:55:12.094 4142 Delete type=0 #21
+2025/01/09-22:34:11.176 4142 Level-0 table #25: started
+2025/01/09-22:34:11.180 4142 Level-0 table #25: 63783 bytes OK
+2025/01/09-22:34:11.182 4142 Delete type=0 #22
